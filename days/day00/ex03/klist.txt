@@ -1,0 +1,6 @@
+Credentials cache: API:7FC76700-19A2-43E2-A7CF-697707ADEFC4
+        Principal: abosch@42.FR
+
+  Issued                Expires               Principal
+Jul  2 17:27:48 2018  Jul  9 17:27:43 2018  krbtgt/42.FR@42.FR
+Jul  2 17:27:51 2018  Jul  9 17:27:43 2018  host/vgs-fn1.42.fr@42.FR
